@@ -13,9 +13,9 @@ In order to complete this assignment, you must do the following:
 
 A valid submission will look something like (this is just an example!)
 
-```https://github.com/kuanhoong/TPT1201
+`https://github.com/kuanhoong/TPT1201
 
-7c376cc5447f11537f8740af8e07d6facc3d9645```
+7c376cc5447f11537f8740af8e07d6facc3d9645
 
 
 
