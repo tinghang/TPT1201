@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2015.8.13)  14 AUG 2015 20:17
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2015.8.13)  15 AUG 2015 03:01
 entering extended mode
 **Computer_Security_Self_Efficacy_Effect.tex
 
 ("C:\Users\TING HANG\Dropbox\TING HANG's Document\Semester 3\TPT1201 - RESEARCH
- METHODS IN CS\Assignment\RE-DO\Latex\Computer_Security_Self_Efficacy_Effect.te
-x"
+ METHODS IN CS\Assignment\RE-DO\Assignment1\Computer_Security_Self_Efficacy_Eff
+ect.tex"
 LaTeX2e <2011/06/27>
 Babel <v3.8m> and hyphenation patterns for english, afrikaans, ancientgreek, ar
 abic, armenian, assamese, basque, bengali, bokmal, bulgarian, catalan, coptic, 
@@ -127,8 +127,8 @@ Package: titlesec 2011/12/15 v2.10.0 Sectioning titles
 \titlewidthfirst=\dimen119
 )
 ("C:\Users\TING HANG\Dropbox\TING HANG's Document\Semester 3\TPT1201 - RESEARCH
- METHODS IN CS\Assignment\RE-DO\Latex\Computer_Security_Self_Efficacy_Effect.au
-x")
+ METHODS IN CS\Assignment\RE-DO\Assignment1\Computer_Security_Self_Efficacy_Eff
+ect.aux")
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 9.
 LaTeX Font Info:    ... okay on input line 9.
 LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 9.
@@ -206,13 +206,10 @@ Missing character: There is no ™ in font cmr10!
 Missing character: There is no â in font cmr10!
 Missing character: There is no € in font cmr10!
 Missing character: There is no ™ in font cmr10!
-
-Overfull \hbox (10.68468pt too wide) in paragraph at lines 46--47
-\OT1/cmr/m/n/10.95 Goodhue and Thomp-son []Goodhue & Thomp-son, 1995)sug-gested
- that a com-bi-na-tion of Task-Technology
- []
-
-[1
+Missing character: There is no â in font cmr10!
+Missing character: There is no € in font cmr10!
+Missing character: There is no ™ in font cmr10!
+ [1
 
 {C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map}]
 <figure1.png, id=9, 530.73282pt x 465.99094pt>
@@ -229,43 +226,40 @@ Missing character: There is no ™ in font cmr10!
 Missing character: There is no â in font cmr10!
 Missing character: There is no € in font cmr10!
 Missing character: There is no ™ in font cmr10!
-Missing character: There is no â in font cmr10!
-Missing character: There is no € in font cmr10!
-Missing character: There is no ™ in font cmr10!
  [2 <C:/Users/TING HANG/Dropbox/TING HANG's Document/Semester 3/TPT1201 - RESEA
-RCH METHODS IN CS/Assignment/RE-DO/Latex/figure1.png>]
+RCH METHODS IN CS/Assignment/RE-DO/Assignment1/figure1.png>]
 Missing character: There is no â in font cmr10!
 Missing character: There is no € in font cmr10!
 Missing character: There is no ™ in font cmr10!
 
 ("C:\Users\TING HANG\Dropbox\TING HANG's Document\Semester 3\TPT1201 - RESEARCH
- METHODS IN CS\Assignment\RE-DO\Latex\Computer_Security_Self_Efficacy_Effect.bb
-l") [3]
+ METHODS IN CS\Assignment\RE-DO\Assignment1\Computer_Security_Self_Efficacy_Eff
+ect.bbl") [3]
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <10.95> on input line 80.
+(Font)              <10.95> on input line 81.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 80.
+(Font)              <8> on input line 81.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 80.
+(Font)              <6> on input line 81.
  [4]
 ("C:\Users\TING HANG\Dropbox\TING HANG's Document\Semester 3\TPT1201 - RESEARCH
- METHODS IN CS\Assignment\RE-DO\Latex\Computer_Security_Self_Efficacy_Effect.au
-x") ) 
+ METHODS IN CS\Assignment\RE-DO\Assignment1\Computer_Security_Self_Efficacy_Eff
+ect.aux") ) 
 Here is how much of TeX's memory you used:
  2427 strings out of 493921
- 33865 string characters out of 3144864
+ 33919 string characters out of 3144864
  98230 words of memory out of 3000000
  5723 multiletter control sequences out of 15000+200000
  9504 words of font info for 33 fonts, out of 3000000 for 9000
  841 hyphenation exceptions out of 8191
- 27i,9n,26p,1068b,189s stack positions out of 5000i,500n,10000p,200000b,50000s
-<C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx10.p
-fb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb
-><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C
-:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/P
-rogram Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti10.pfb><C:/Pro
-gram Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti12.pfb>
-Output written on Computer_Security_Self_Efficacy_Effect.pdf (4 pages, 196889 b
+ 27i,9n,26p,1068b,219s stack positions out of 5000i,500n,10000p,200000b,50000s
+<C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cm
+bx10.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx
+12.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.
+pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb
+><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti10.pfb><
+C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti12.pfb>
+Output written on Computer_Security_Self_Efficacy_Effect.pdf (4 pages, 196771 b
 ytes).
 PDF statistics:
  42 PDF objects out of 1000 (max. 8388607)
