@@ -1,0 +1,87 @@
+\begin{thebibliography}{}
+
+\bibitem [\protect \citeauthoryear {%
+Al-Shawabkeh%
+, Saudi%
+\BCBL {}\ \BBA {} Alwi%
+}{%
+Al-Shawabkeh%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2012}}%
+}]{%
+al2012computer}
+\APACinsertmetastar {%
+al2012computer}%
+\begin{APACrefauthors}%
+Al-Shawabkeh, M.%
+, Saudi, M\BPBI M.%
+\BCBL {}\ \BBA {} Alwi, N\BPBI H\BPBI M.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2012}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Computer security self-efficacy effect: An extention of
+  Technology-to-Performance chain model} {Computer security self-efficacy
+  effect: An extention of technology-to-performance chain model}.{\BBCQ}
+\newblock
+\BIn{} \APACrefbtitle {Control and System Graduate Research Colloquium
+  (ICSGRC), 2012 IEEE} {Control and system graduate research colloquium
+  (icsgrc), 2012 ieee}\ (\BPGS\ 64--69).
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Davis%
+, Bagozzi%
+\BCBL {}\ \BBA {} Warshaw%
+}{%
+Davis%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {1989}}%
+}]{%
+davis1989user}
+\APACinsertmetastar {%
+davis1989user}%
+\begin{APACrefauthors}%
+Davis, F\BPBI D.%
+, Bagozzi, R\BPBI P.%
+\BCBL {}\ \BBA {} Warshaw, P\BPBI R.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{1989}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {User acceptance of computer technology: a comparison of
+  two theoretical models} {User acceptance of computer technology: a comparison
+  of two theoretical models}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Management science}{35}{8}{982--1003}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Goodhue%
+\ \BBA {} Thompson%
+}{%
+Goodhue%
+\ \BBA {} Thompson%
+}{%
+{\protect \APACyear {1995}}%
+}]{%
+goodhue1995task}
+\APACinsertmetastar {%
+goodhue1995task}%
+\begin{APACrefauthors}%
+Goodhue, D\BPBI L.%
+\BCBT {}\ \BBA {} Thompson, R\BPBI L.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{1995}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Task-technology fit and individual performance}
+  {Task-technology fit and individual performance}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{MIS quarterly}{}{}{213--236}.
+\PrintBackRefs{\CurrentBib}
+
+\end{thebibliography}
