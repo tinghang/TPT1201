@@ -1,0 +1,62 @@
+\begin{thebibliography}{10}
+
+\bibitem{a2008cloud}
+Mladen A~Vouk.
+\newblock Cloud computing--issues, research and implementations.
+\newblock {\em CIT. Journal of Computing and Information Technology},
+  16(4):235--246, 2008.
+
+\bibitem{armbrust2010view}
+Michael Armbrust, Armando Fox, Rean Griffith, Anthony~D Joseph, Randy Katz,
+  Andy Konwinski, Gunho Lee, David Patterson, Ariel Rabkin, Ion Stoica, et~al.
+\newblock A view of cloud computing.
+\newblock {\em Communications of the ACM}, 53(4):50--58, 2010.
+
+\bibitem{grobauer2011understanding}
+Bernd Grobauer, Tobias Walloschek, and Elmar St{\"o}cker.
+\newblock Understanding cloud computing vulnerabilities.
+\newblock {\em Security \& privacy, IEEE}, 9(2):50--57, 2011.
+
+\bibitem{jensen2009technical}
+Meiko Jensen, J{\"o}rg Schwenk, Nils Gruschka, and Luigi~Lo Iacono.
+\newblock On technical security issues in cloud computing.
+\newblock In {\em Cloud Computing, 2009. CLOUD'09. IEEE International
+  Conference on}, pages 109--116. IEEE, 2009.
+
+\bibitem{kandukuri2009cloud}
+Balachandra~Reddy Kandukuri, V~Ramakrishna Paturi, and Atanu Rakshit.
+\newblock Cloud security issues.
+\newblock In {\em Services Computing, 2009. SCC'09. IEEE International
+  Conference on}, pages 517--520. IEEE, 2009.
+
+\bibitem{so2011cloud}
+Kuyoro SO.
+\newblock Cloud computing security issues and challenges.
+\newblock {\em International Journal of Computer Networks}, 3(5), 2011.
+
+\bibitem{starek1999method}
+Robert~Phillip Starek, George Friedman, David~Earl Marshall, and Jason~Lee
+  Chambers.
+\newblock Method and apparatus for real-time secure file deletion, November~23
+  1999.
+\newblock US Patent 5,991,778.
+
+\bibitem{strickland2008cloud}
+Jonathan Strickland.
+\newblock How cloud computing works.
+\newblock {\em HowStuffWorks. com}, 2008.
+
+\bibitem{subashini2011survey}
+Subashini Subashini and V~Kavitha.
+\newblock A survey on security issues in service delivery models of cloud
+  computing.
+\newblock {\em Journal of network and computer applications}, 34(1):1--11,
+  2011.
+
+\bibitem{ysterud2014keylogging}
+Stig~Arild Ysterud.
+\newblock Keylogging of user interaction in physical and virtual environments
+  and its implications for honeypot analysis.
+\newblock 2014.
+
+\end{thebibliography}

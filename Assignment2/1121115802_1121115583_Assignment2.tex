@@ -1,0 +1,111 @@
+\documentclass[a4paper, 12pt]{article}
+\usepackage[top=2cm, bottom=1.5cm, left=2cm, right=2cm]{geometry}
+\usepackage{plain}
+\usepackage{enumerate}
+\usepackage{array}
+\usepackage{titlesec}
+\usepackage{datetime}
+
+\title{
+\mbox{} \\
+\underline{\bfseries{\Large Cloud Computing Security Issue and Solution}}}
+\author{\textbf{{\normalsize TAN SU YING 1121115802}} \vspace{1mm}\\ \textbf{{\normalsize TANG TING HANG 1121115583}} \vspace{3mm}\\ \small{Bachelor of Computing Science (HONS)} \\ \small{Multimedia University, Malaysia}}
+\date{}
+
+\titleformat*{\section }{\normalfont\bfseries}
+\titleformat*{\subsection}{\normalfont\bfseries}
+\titleformat*{\subsubsection}{\normalfont\bfseries}
+
+\begin{document}
+
+\bibliographystyle{plain}
+
+\date{\textit{\small{\today}}}
+\maketitle
+
+\section{Executive Summary of Research Proposal}
+
+Nowadays, a lot of things can be done by using Internet without going to the particular place. However, the cloud computing fully furnish scalable and low on-demand computing infrastructure with the best quality of services. The cloud computing security is to make sure that customer does not get into any problem such as data loss or data theft. However, there are four types of issues fall into discussion while discussing security of a cloud such as data issues, privacy issues, infected application, and security review. Go through this research paper, we realized that the current cloud computing system does not provide a secure system. For example, anyone can access data in anytime anywhere therefore this will let the system occur duplicate data or loss data. Other than that, the cloud service provider does not determine who is able to access the data and maintaining the server as it will easily to occur unnecessary data loss or data theft. Moreover, the cloud computing security does not give the authority to monitoring and maintenance the server. So the system will easy to malicious user from uploading any infected application into the cloud. This paper is try to list what will be affect in the cloud, to let cloud service provider and consumer know that the security issues and problem in cloud system. Besides that, we found out there are few solution that can improve security issues such as verify the right access control, control the consumer access devices, monitor the data access, share the demanded records, verify the data deletion, and security check the events. However, the cloud service provider and consumer must make sure that the cloud is safety form all the external threats, so there will be a strong and mutual understanding.
+
+\section{Introduction}
+
+Cloud computing provide the computing storage services allows companies and individual through the network to the demand and scalable way to obtain the services with inexpensive cost that are manage by the third party at remote location. Most of the companies develop and deliver cloud computing product and services but not consider the impact in shared and virtualization environment of access to data. Cloud computing allow to access online file storage, online business application and computer resources from anywhere when network connection is available. Cloud computing is on-demand tools for various information technology industries, cloud resource can be used by individual and deployed by Google, Amazon, Microsoft and so on. The advantage to the customer is can use the resource and only pay for the services fee, customer do not required to purchase the resource from third party vendor, this would help the customer save their money and time to access to cloud resource quickly and easily. Cloud computing includes multiple cloud components interact with every data they are hold on the servers, thus user can access and get the data quickly. Cloud computing architecture can be categorize into two main parts which are the front end and back end \cite{strickland2008cloud}. Front end is the visible for the user, mobile devices and customer while the back end is used by servers, storage system and so on. Cloud computing divide into three form: public, private and hybrid \cite{armbrust2010view}. Public cloud is cheaper than the private cloud, no control of resource used or who share them and it is suitable for the information or data that are not sensitive. Private cloud provides customization and more security, operated solely for an organization and limited access to the partner network.  Hybrid cloud is composition of private and public, accessible to client and third party computer resource. Cloud faced numerous issue when talk about the security including privacy, data loss in database and data theft. Hence, this paper find out some cloud issue and problems involved in cloud computing services provider such as data, application infected, and resources are located with provider and also with some method to against these issue.
+
+\section{Justification of Research}
+
+Cloud computing has appear in recent years, in many aspects, most of the developing markets have not properly consider the impact in shared and virtualization environment of access to data. Cloud security is one of the major issue in cloud computing, need to be implemented appropriately and several critical elements must be in place to make sure cloud is secure enough from data loss and phishing. This research was proposed to provide the solution in aspect of cloud security issue to understand the situation, parameters affect cloud security and challenge faced in cloud computing. The proposed research is very important as will provide strong and understandable between customer and cloud service provider in cloud computing.
+
+\section{Research Objectives}
+
+\begin{itemize}
+\item To enhance the cloud computing security by using share demand records
+\item To enhance the security for those security constraints to prevent external threats.
+\end{itemize}
+
+\section{Literature Review}
+
+Cloud computing security issues discussed by various researches. Discuss the security Service Level Agreement's norm and goal related to data site and data recovery \cite{kandukuri2009cloud}. Security issues which will cause the reduction in development of cloud computing complication with data privacy and data protection  \cite{subashini2011survey}. Technical security problem increase from the usage of cloud services used to set up all the cross-domain Internet-connected collaborations \cite{jensen2009technical}. Discusses the concept of "cloud" computing, tries to resolves the common issues, related research topics, and a "cloud" performance based on VCL technology \cite{a2008cloud}. It has denoted the service-oriented architecture, reduced total cost of ownership and on-demand services. Cloud computing has the latent to become a frontrunner to ensure the secure, theoretical and economically feasible information technology technique in the future \cite{so2011cloud}. Discuss the security weakness into the related technology, cloud characteristics, and security controls \cite{grobauer2011understanding}.
+
+\section{Research Methodology}
+
+There is need to implement for enhance and improve security by extended the technologies and techniques to provide secure server which will ensure the sharing resource in the cloud is secure. To ensuring the cloud computing is secure, layered framework is available to implement in cloud computing environment. Layered framework contains four layer. First layer is virtual machine, this layer share the same security vulnerabilities and protected from data theft, hack by someone who impersonated as a legitimate user, affected by viruses and so on. Second layer is cloud storage, this layer is provisioning a virtual data storage system from the cloud services provider. Third layer is virtual network monitor, this layer create a secure query to process for the structured query language SQL in cloud. Fourth layer is virtual network monitor layer, this layer is composition of hardware and software solutions in virtual machine to solve the issue, e.g. key logger examining XEN. \cite{ysterud2014keylogging} There are several method should be notice that when cloud computing security solution provider provide their service to client in public.
+
+\begin{enumerate}[I. ]
+
+\item \textbf{Verify the access controls} \\
+Setup the data access control, cloud service provider will verify the user can access only to those function or user or consumer data if their access is granted.
+
+\item \textbf{Control the consumer access devices} \\
+Most of the users they don't configure or install their devices properly such as smartphone, personal PC and so on. Must be ensure that consumer access devices or access point are secure enough and keep the computer safe from malware attack, otherwise device will access by malicious and an unauthorized user. The loss of an endpoint access device due to lost or stolen device can be cancel no matter the security protocol in the cloud.
+
+\item \textbf{Monitor the data access} \\
+Cloud service provider have to monitor and observe that abnormal data access from snooping activities including access personal data and email. Be sure when, who accessing data in the cloud, how much they access and ensure that data are not used for unintended purpose
+
+\item \textbf{Verify the data deletion} \\
+Provides a written notice of deletion process into contract. If the user need to report its compliance, cloud provider will share record in table format or diagrams. Plus, don't forget to implement a proper verification delete of the data from shared devices  \cite{starek1999method}.
+
+\item \textbf{Security check event} \\
+It is really important that cloud provider provide enough details regarding the valuable information, legal facts and fulfillment of promise which will govern the relationship between client and cloud computing. This will state the responsibility and the action taken by the cloud service provider.
+
+\end{enumerate}
+
+\pagebreak
+
+\bibliography{MyBIB}{}
+
+\pagebreak
+
+\flushleft \textbf{ Assessment Sheet: } \\
+
+\begin{center}
+
+\begin{tabular}{|m{7cm} |>{\centering\arraybackslash} m{8.72cm} |}
+\hline
+Title of your research project & Cloud Computing Security Issue and Solution\\ \hline
+
+Member of your project & 
+
+\begin{enumerate}
+\item TAN SU YING - 1121115802
+\item TANG TING HANG - 1121115583
+\end{enumerate} \\ \hline
+
+Executive Summary (5 marks) & \\ [3ex] \hline 
+
+Introduction (3 marks) & \\ [3ex] \hline
+
+Justification of Research (3 marks) & \\ [3ex] \hline
+
+Research Objectives (3 marks) & \\ [3ex] \hline
+
+Literature Review (6 marks) & \\ [3ex] \hline
+
+Research Methodology (8 marks) & \\ [3ex] \hline
+
+References (2 marks) & \\ [3ex] \hline
+
+\end{tabular}
+
+\end{center}
+
+\end{document}
